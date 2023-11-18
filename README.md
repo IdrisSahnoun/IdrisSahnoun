@@ -4,7 +4,7 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <ul>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🐍</g-emoji> I’m a Python Back-end  developer</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻</g-emoji> I’m an IT Engineering Student</li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">🤝</g-emoji> I want to exchange knowledge with others about different technologies </li>
 <li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">✅</g-emoji> Goals: Dive deeper into this amazing world of IT</li>
 
@@ -18,7 +18,7 @@
 <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
@@ -34,7 +34,7 @@
 
 <a href = 'https://www.linkedin.com/in/sahnoun-youssef/'> <img width = '32px' align= 'left' margin="10px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-<a href = 'https://github.com/SahnounYusuf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/IdrisSahnoun'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 <br>
@@ -42,14 +42,14 @@
 <!-- [![SahnounYusuf's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahnounYusuf)](https://git.io/praveenscience) -->
 
 <a href="/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SahnounYusuf&show_icons=true&theme=dark&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IdrisSahnoun&show_icons=true&theme=dark&card_width=300" />
 </a>
 <!-- <a href="/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahnounYusuf&langs_count=8&theme=dark&hide_progress=true&card_width=300" />
 </a> -->
 
 <a href= "/">
- <img height=200 padding-right="center" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahnounYusuf&theme=dark&card_width=320"/>
+ <img height=200 padding-right="center" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IdrisSahnoun&theme=dark&card_width=320"/>
 </a>
 
   
