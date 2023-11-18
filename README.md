@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/followers/IdrisSahnoun?label=Follow&style=social)](https://github.com/SahnounYusuf)
+[![Github](https://img.shields.io/github/followers/IdrisSahnoun?label=Follow&style=social)](https://github.com/IdrisSahnoun)
 <h2>Welcome to my playground</h2>
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -32,7 +32,7 @@
 
 <h2> Connect with me </h2>
 
-<a href = 'https://www.linkedin.com/in/sahnoun-youssef/'> <img width = '32px' align= 'left' margin="10px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/idris-sahnoun/'> <img width = '32px' align= 'left' margin="10px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 <a href = 'https://github.com/IdrisSahnoun'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
